@@ -1,4 +1,4 @@
-### Olá! Bem-vindo ao meu perfil no GitHub. Sou José Alisson, tenho 21 anos e sou um entusiasta da Ciência de Dados. Atualmente, estou cursando Ciência de Dados na Anhanguera Educacional. Estou focando meus estudos em linguagens como Python (incluindo Pandas, Matplotlib e NumPy) e SQL. Em breve, você verá projetos práticos por aqui!👋
+### Olá! Bem-vindo ao meu perfil no GitHub.Sou José Alisson, tenho 21 anos e sou um entusiasta da Ciência de Dados. Atualmente, estou cursando Ciência de Dados na Anhanguera Educacional. Estou focando meus estudos em linguagens como Python (incluindo Pandas, Matplotlib e NumPy) e SQL. Em breve, você verá projetos práticos por aqui!👋
 
 <!--
 **alissonvrt/alissonvrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
