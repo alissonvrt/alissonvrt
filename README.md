@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=1000&color=3BA5C4F0&multiline=true&width=435&lines=Hello%2C+my+name+is+Jos%C3%A9+Alisson;I+am+23+years+old+and+a+Data+Science+student;Welcome+to+my+repository!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7F0&width=435&lines=Hello%2C+my+name+is+Jos%C3%A9+Alisson;I+am+23+years+old+and+a+Data+Science+student;Welcome+to+my+repository!)](https://git.io/typing-svg)
 
  ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 <!--
